@@ -6,7 +6,6 @@ import time
 import os
 import shutil  
 
-
 # Initialize OpenAI API
 openai.api_key = "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"
 # Initialize the text to speech engine 
