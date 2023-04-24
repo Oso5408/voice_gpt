@@ -5,7 +5,7 @@ from pyttsx3.voice import Voice
 import time 
 import os
 import shutil  
-
+ 
 # Initialize OpenAI API
 openai.api_key = "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"
 # Initialize the text to speech engine 
@@ -95,3 +95,4 @@ if __name__=="__main__":
     # engine.setProperty('voice', 'com.apple.eloquence.es-MX.Grandma')
     # engine.setProperty('rate', 180)
     main()
+
